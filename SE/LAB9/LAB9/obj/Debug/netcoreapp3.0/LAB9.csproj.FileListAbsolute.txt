@@ -1,0 +1,14 @@
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.exe
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.deps.json
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.runtimeconfig.json
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.runtimeconfig.dev.json
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.dll
+D:\Study\University-Tasks\SE\LAB9\LAB9\bin\Debug\netcoreapp3.0\LAB9.pdb
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.csproj.AssemblyReference.cache
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.AssemblyInfoInputs.cache
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.AssemblyInfo.cs
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.csproj.CoreCompileInputs.cache
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.dll
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.pdb
+D:\Study\University-Tasks\SE\LAB9\LAB9\obj\Debug\netcoreapp3.0\LAB9.genruntimeconfig.cache
